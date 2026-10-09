@@ -1,0 +1,1 @@
+# Laziza-Temirova_Lab_MNIST_FeedForward.ipynb
